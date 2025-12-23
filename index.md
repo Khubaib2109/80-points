@@ -10,7 +10,6 @@ This page contains the official rules for **80 Points**, a four-player trick-tak
 A printable version of these rules is available below.
 
 <a class="btn btn-primary" href="80-points-rules.pdf">Download the rules (PDF)</a>
-<a class="btn btn-outline" href="#rules">Jump to rules</a>
 
 ---
 
