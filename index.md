@@ -7,8 +7,13 @@ title: 80 Points — Official Rules
 
 A fast **2v2 trick-taking** game with trump, doubles, and sisters.
 
-<a class="btn btn-primary" href="80-points-rules.pdf">📥 Download PDF</a>
-<a class="btn btn-outline" href="#read-online">📖 Read online</a>
+<a href="80-points-rules.pdf" style="display:inline-block;padding:10px 14px;border-radius:12px;background:#2563eb;color:#fff;text-decoration:none;margin-right:10px;font-weight:700;">
+📥 Download PDF
+</a>
+
+<a href="#read-online" style="display:inline-block;padding:10px 14px;border-radius:12px;border:1px solid #cfcfcf;color:#111;text-decoration:none;font-weight:700;background:#fff;">
+📖 Read online
+</a>
 
 ---
 
@@ -32,7 +37,7 @@ A fast **2v2 trick-taking** game with trump, doubles, and sisters.
 
 If the PDF viewer doesn’t appear or isn’t scrollable on your device, use the **Download PDF** button above.
 
-<div class="pdf-frame">
+<div style="height: 85vh; border: 1px solid #e5e7eb; border-radius: 14px; overflow: hidden; background: #fff;">
   <object data="80-points-rules.pdf#view=FitH" type="application/pdf" width="100%" height="100%">
     <div style="padding: 16px;">
       <p><strong>PDF preview not supported in this browser.</strong></p>
