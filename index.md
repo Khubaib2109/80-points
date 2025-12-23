@@ -9,11 +9,17 @@ This page contains the official rules for **80 Points**, a four-player trick-tak
 
 A printable version of these rules is available below.
 
-<a href="80-points-rules.pdf" style="display:inline-block;padding:10px 16px;border-radius:10px;background:#2563eb;color:#ffffff;text-decoration:none;font-weight:600;">
-Download the rules (PDF)
-</a>
+<a class="btn btn-primary" href="80-points-rules.pdf">Download the rules (PDF)</a>
+<a class="btn btn-outline" href="#rules">Jump to rules</a>
 
 ---
+
+<div class="card">
+<strong>Quick reference</strong><br>
+Teams: Attackers vs Defenders • Goal: Attackers score 80+ • Points: 5 (5), 10 (10), K (10) • Decks: 2 • Bottom eight: can double if Attackers win last trick
+</div>
+
+<a id="rules"></a>
 
 ## 1. Objective
 
@@ -151,6 +157,4 @@ Team roles, the starting player, and the royal number for the next round are det
 
 If you believe a rule requires clarification or correction, please submit an issue or pull request on GitHub.
 
-<a href="https://github.com/Khubaib2109/80-points">
-View the project on GitHub
-</a>
+<a href="https://github.com/Khubaib2109/80-points">View the project on GitHub</a>
