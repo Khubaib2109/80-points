@@ -14,12 +14,6 @@ A printable version of these rules is available below.
 
 ---
 
-<div class="card">
-<strong>Quick reference</strong><br>
-Teams: Attackers vs Defenders • Goal: Attackers score 80+ • Points: 5 (5), 10 (10), K (10) • Decks: 2 • Bottom eight: can double if Attackers win last trick
-</div>
-
-<a id="rules"></a>
 
 ## 1. Objective
 
