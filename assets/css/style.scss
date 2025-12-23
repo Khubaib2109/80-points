@@ -1,0 +1,81 @@
+---
+---
+
+/* Load the theme CSS first */
+@import "{{ site.theme }}";
+
+/* Soft site background */
+body {
+  background: #f6f7fb;
+}
+
+/* Make the main content area wider */
+.page-content,
+#content,
+.inner {
+  max-width: 1100px;
+}
+
+/* If the theme uses a sidebar layout, widen the content column */
+#main-content,
+section {
+  max-width: 900px;
+}
+
+/* Give the content area a "card" feel */
+#main-content,
+section {
+  background: #ffffff;
+  padding: 26px 28px;
+  border-radius: 16px;
+  box-shadow: 0 8px 26px rgba(0,0,0,0.06);
+}
+
+/* Improve typography a bit */
+#main-content h1, #main-content h2, #main-content h3 {
+  letter-spacing: -0.02em;
+}
+
+#main-content p, #main-content li {
+  line-height: 1.6;
+}
+
+/* Make embedded PDF area clean and responsive */
+.pdf-frame {
+  height: 85vh;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  overflow: hidden;
+  background: #fff;
+}
+
+/* Make buttons look consistent */
+a.btn {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-weight: 650;
+  margin-right: 10px;
+}
+
+a.btn-primary {
+  background: #2563eb;
+  color: white;
+}
+
+a.btn-outline {
+  border: 1px solid #cfcfcf;
+  color: #111827;
+  background: white;
+}
+
+/* On small screens: reduce padding so it doesn’t feel cramped */
+@media (max-width: 700px) {
+  #main-content,
+  section {
+    padding: 18px 16px;
+    border-radius: 12px;
+  }
+  .pdf-frame { height: 70vh; }
+}
