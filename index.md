@@ -1,16 +1,26 @@
+---
+layout: default
+title: 80 Points — Official Rules
+---
+
+<div style="padding: 6px 0 10px 0;">
+
 # 🃏 80 Points — Official Rules
 
-A fast **2v2 trick-taking** game with trump, doubles, and sisters.
+<p style="font-size: 1.05rem; margin-top: -6px;">
+A fast <strong>2v2 trick-taking</strong> game with trump, doubles, and sisters.
+</p>
 
-<a href="80-points-rules.pdf" style="display:inline-block;padding:10px 14px;border-radius:12px;background:#2563eb;color:white;text-decoration:none;margin-right:10px;font-weight:600;">
-  📥 Download PDF
-</a>
+<div style="margin: 14px 0 18px 0;">
+  <a class="btn btn-primary" href="80-points-rules.pdf">📥 Download PDF</a>
+  <a class="btn btn-outline" href="#read-online">📖 Read online</a>
+</div>
 
-<a href="#read-online" style="display:inline-block;padding:10px 14px;border-radius:12px;border:1px solid #cfcfcf;text-decoration:none;font-weight:600;">
-  📖 Read online
-</a>
+</div>
 
 ---
+
+<div style="padding: 16px 18px; border: 1px solid #e5e7eb; border-radius: 14px; background: rgba(255,255,255,0.8);">
 
 ## ⚡ Quick Start (1-minute explanation)
 
@@ -24,29 +34,35 @@ A fast **2v2 trick-taking** game with trump, doubles, and sisters.
 - **Doubles:** if doubles are played, others must respond with doubles (if possible)
 - **Sisters:** stronger than doubles — must beat sisters with **higher sisters**
 
+</div>
+
 ---
 
 <a id="read-online"></a>
 
 ## 📖 Read the Rules Online
 
-If the PDF viewer doesn’t appear or isn’t scrollable on your device, use the **Download PDF** button above.
+<p style="opacity: 0.85;">
+If the PDF viewer doesn’t appear or isn’t scrollable on your device, use the <strong>Download PDF</strong> button above.
+</p>
 
-<div style="height: 85vh; border: 1px solid #ddd; border-radius: 12px; overflow: hidden; background: #fff;">
+<div class="pdf-frame">
   <object data="80-points-rules.pdf" type="application/pdf" width="100%" height="100%">
     <div style="padding: 16px;">
       <p><strong>PDF preview not supported in this browser.</strong></p>
-      <p>
-        👉 <a href="80-points-rules.pdf">Click here to download the PDF</a>
-      </p>
+      <p>👉 <a href="80-points-rules.pdf">Click here to download the PDF</a></p>
     </div>
   </object>
 </div>
 
 ---
 
-## ✅ Want to contribute / suggest edits?
+<div style="padding: 16px 18px; border: 1px solid #e5e7eb; border-radius: 14px; background: rgba(255,255,255,0.8);">
+
+## ✅ Confirm / suggest edits
 
 If you spot a rule that needs clarifying, open an issue or PR on GitHub:
 
 👉 <a href="https://github.com/Khubaib2109/80-points">View the project on GitHub</a>
+
+</div>
