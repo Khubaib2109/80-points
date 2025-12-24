@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+<a class="btn btn-outline" href="./">← Back to rules</a>
+
 # Contact
 
 Use the form below to send questions or suggestions.
