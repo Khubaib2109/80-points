@@ -148,14 +148,7 @@ Team roles, the starting player, and the royal number for the next round are det
 
 ## Contributing
 
-If you believe a rule requires clarification or correction, please submit an issue or pull request on GitHub.
-
----
-
-## Questions or clarifications?
-
 If you have questions about the rules, edge cases, or house variations, feel free to get in touch.
 
 <a class="btn btn-outline" href="contact">Contact</a>
 
-<a href="https://github.com/Khubaib2109/80-points">View the project on GitHub</a>
