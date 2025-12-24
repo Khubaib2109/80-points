@@ -5,7 +5,17 @@ title: Contact
 
 # Contact
 
-Questions about the rules or edge cases? Send them through:
+Use the form below to send questions or suggestions.
 
-- Email: <a href="mailto:YOUR_EMAIL_HERE">khubaib.e.qureshi@gmail.com</a>
-- Or open an issue on GitHub: <a href="https://github.com/Khubaib2109/80-points/issues">Issues page</a>
+<div class="card">
+  <iframe
+    src="https://forms.gle/rnmx3NQUGk3WAuKR7"
+    width="100%"
+    height="900"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0"
+  >
+    Loading…
+  </iframe>
+</div>
